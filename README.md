@@ -1,1 +1,1 @@
-# itextosotre-api
+# itextostore-api
